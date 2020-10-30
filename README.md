@@ -22,6 +22,14 @@ Con lo anterior se obtienen los siguientes graficos:
 * Posición `x = 0.416 [m]`
 ![image](https://user-images.githubusercontent.com/43451947/97652027-4309ae80-1a3c-11eb-844c-f21a53dcd1e6.png)
 
+Los ultimos 3 graficos se presentan a continuacion:
+
+![WhatsApp Image 2020-10-29 at 23 59 19](https://user-images.githubusercontent.com/43649125/97654959-c9c18a00-1a42-11eb-941d-8d739c48b120.jpeg)
+
+![WhatsApp Image 2020-10-29 at 23 58 54](https://user-images.githubusercontent.com/43649125/97654962-caf2b700-1a42-11eb-8374-6f5b2ee4951e.jpeg)
+
+![WhatsApp Image 2020-10-29 at 23 59 37](https://user-images.githubusercontent.com/43649125/97654978-d514b580-1a42-11eb-8260-1dec3aa4282c.jpeg)
+
 ## Parte 2
 
 En el codigo se observan los pasos que se tuvieron que agregar al codigo de la entrega anterior para poder expresar la evolucion de la temperatura con una condicion de borde unica inicial. Se observa que la solucion converge al valor de temperatura `t = 15°C` tanto para los 1000 pasos como para los 50000 pasos.
