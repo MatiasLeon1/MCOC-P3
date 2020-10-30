@@ -25,3 +25,6 @@ Con lo anterior se obtienen los siguientes graficos:
 ## Parte 2
 
 En el codigo se observan los pasos que se tuvieron que agregar al codigo de la entrega anterior para poder expresar la evolucion de la temperatura con una condicion de borde unica inicial. Se observa que la solucion converge al valor de temperatura `t = 15°C` tanto para los 1000 pasos como para los 50000 pasos.
+
+
+![image](https://user-images.githubusercontent.com/43451947/97653371-67b35580-1a3f-11eb-9bfa-ec742b210f8f.png)
