@@ -11,7 +11,7 @@ La solucion analitica se obtiene con una serie de Fourier, la cual converge a un
 
 ![ecuacion 2](https://user-images.githubusercontent.com/43649125/97651560-291b9c00-1a3b-11eb-8a3d-71f3735aad56.png)
 
-Con lo anterior se obtienen los soguientew graficos
+Con lo anterior se obtienen los siguientes graficos
 
 ## Parte 2
 
